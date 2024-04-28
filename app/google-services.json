@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49003335355",
+    "project_id": "handapp-227ae",
+    "storage_bucket": "handapp-227ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49003335355:android:6005ccf2cc13c7d9c3639e",
+        "android_client_info": {
+          "package_name": "com.example.secondhandapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOSOwsXZSamkhZ3arnqxA0Okg3OCZDxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49003335355",
+    "project_id": "handapp-227ae",
+    "storage_bucket": "handapp-227ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49003335355:android:6005ccf2cc13c7d9c3639e",
+        "android_client_info": {
+          "package_name": "com.example.secondhandapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49003335355-vkqo6jh36kmfvtd1sceb363r48o1fdmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.secondhandapp",
+            "certificate_hash": "731879bff09b55d6e9644cb855a0edfea34de34a"
+          }
+        },
+        {
+          "client_id": "49003335355-3lhajaifei13p9j54t0tu63dbab634ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOSOwsXZSamkhZ3arnqxA0Okg3OCZDxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49003335355-3lhajaifei13p9j54t0tu63dbab634ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
